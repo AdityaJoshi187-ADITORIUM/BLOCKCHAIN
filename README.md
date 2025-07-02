@@ -1,7 +1,5 @@
 👻GHOSTCOIN👻
 ```bash
-> blockchain@1.0.0 start
-> tsc && node .
 
 👻 Sending GHOSTCoin...
 👻 Transaction is valid! 
